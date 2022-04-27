@@ -1,4 +1,4 @@
-Click [here] (http://ky.csstools.surge.sh/) to jump into the website
+Click [here](http://ky.csstools.surge.sh/) to jump into the website
 <!-- # fe-tools
 
 ## Build Setup
